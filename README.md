@@ -1,4 +1,4 @@
-### Ola! Eu sou Andre Luiz 👋
+### Ola! Eu sou Andre Luis 👋
 
 <div align="center">
   <a href="https://github.com/Rudz1">
